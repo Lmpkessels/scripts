@@ -9,17 +9,17 @@ in the said list.
 
 Resource: https://www.w3resource.com/python-exercises/puzzles/index.php
 """
-def check_length_and_5th_element(list):
+def check_len_and_indx_5(list):
     repeated_index_5 = 0
-    index_5_is_3_x_in_the_list = False
+    len_8_and_reputition_3 = False
     
     for i in range(len(list)):
         if list[4] == list[i]:
             repeated_index_5 += 1
 
         if len(list) == 8 and repeated_index_5 == 3:
-            index_5_is_3_x_in_the_list = True
+            len_8_and_repetition_3 = True
 
-    print(index_5_is_3_x_in_the_list)
+    print(len_8_and_repetition_3)
 
-check_length_and_5th_element([19, 19, 15, 5, 5, 5, 1, 2])
+check_len_and_indx_5([19, 19, 15, 5, 5, 5, 1, 2])
