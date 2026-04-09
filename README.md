@@ -1,5 +1,7 @@
 # scripts
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Issues](https://img.shields.io/badge/issues-GitHub-blue?logo=github&link=https://github.com/Lmpkessels/scripts/issues)
+
 Contains scripts for the linux OS for automation and a greater workflow.
 
 ## Installation
