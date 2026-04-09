@@ -1,6 +1,6 @@
 # scripts
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Issues](https://img.shields.io/badge/issues-GitHub-blue?logo=github&link=https://github.com/Lmpkessels/scripts/issues)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)]() [![Issues](https://img.shields.io/github/issues/Lmpkessels/scripts?style=for-the-badge)](https://github.com/Lmpkessels/scripts/issues)
 
 Contains scripts for the linux OS for automation and a greater workflow.
 
