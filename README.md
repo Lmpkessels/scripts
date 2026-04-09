@@ -8,8 +8,8 @@ Contains scripts for the linux OS for automation and a greater workflow.
 
 ```bash
 # Make sure python3 is installed
-$ sudo apt-get update
-$ sudo apt-get install python3.6
+sudo apt-get update
+sudo apt-get install python3.6
 ```
 
 ```bash
