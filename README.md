@@ -1,5 +1,31 @@
 # Scripts
 
-A simple repository where I explore in both Python and Bash when am bored.
+![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=FFD43B)
 
-Here I'll also be deploying automated scripts for Linux and other needs if and only if i feel the need for it.
+This repository contains Python scripts to improve workflow, AI is used in the process
+to write those scripts to save time such that I can focus on understanding deeper concepts in CS.
+
+## Installation
+
+```bash
+git clone https://github.com/Lmpkessels/scripts.git
+cd scripts
+```
+
+## Usage
+
+```bash
+# Create directory that contains binaries for local access
+mkdir -p ~/.local/bin
+```
+
+```bash
+# Copy script for directory with executables
+cd ~/.local/bin
+cp ~/path/file_name.py .
+```
+
+```bash
+# Reload the shell
+source ~/.bashrc
+```
