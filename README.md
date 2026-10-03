@@ -23,11 +23,6 @@ mkdir -p ~/.local/bin
 
 ```bash
 # Copy script for directory with executables
-cd ~/.local/bin
-cp ~/path/file_name.py .
-```
-
-```bash
-# Reload the shell
-source ~/.bashrc
+cd /usr/local/bin
+sudo cp ~/path/file_name.py .
 ```
